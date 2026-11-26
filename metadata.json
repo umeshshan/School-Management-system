@@ -1,0 +1,6 @@
+{
+  "name": "Acadexia School Portal",
+  "description": "Online School Management System for Grades 6-13 featuring direct Excel marks entry and validation, automated grading and competition ranking, attendance tracking, PDF report cards, and Chart.js analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
